@@ -1,0 +1,7 @@
+"Great Wall Of China"|"1"|"http://en.m.wikipedia.org/wiki/Great_Wall_of_China"
+"Petra"|"2"|"http://en.m.wikipedia.org/wiki/Petra"
+"Christ The Redeemer"|"3"|"http://en.m.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"
+"Machu Picchu"|"4"|"http://en.m.wikipedia.org/wiki/Machu_Picchu"
+"Chichen Itza"|"5"|"http://en.m.wikipedia.org/wiki/Chichen_Itza"
+"Colosseum"|"6"|"http://en.m.wikipedia.org/wiki/Colosseum"
+"Taj Mahal"|"7"|"http://en.m.wikipedia.org/wiki/Taj_Mahal"
